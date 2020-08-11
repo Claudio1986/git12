@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DWH", "DWH\DWH.dtproj", "{FEAA1088-BDB2-4C74-A52F-B90FB365ECDB}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BE", "BE\BE.dtproj", "{A7C7CCF8-D4EB-4759-9F3F-7A4FF56E0176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAA1088-BDB2-4C74-A52F-B90FB365ECDB}.Development|Default.ActiveCfg = Development
+		{FEAA1088-BDB2-4C74-A52F-B90FB365ECDB}.Development|Default.Build.0 = Development
+		{FEAA1088-BDB2-4C74-A52F-B90FB365ECDB}.Development|Default.Deploy.0 = Development
+		{A7C7CCF8-D4EB-4759-9F3F-7A4FF56E0176}.Development|Default.ActiveCfg = Development
+		{A7C7CCF8-D4EB-4759-9F3F-7A4FF56E0176}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
